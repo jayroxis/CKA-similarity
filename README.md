@@ -7,6 +7,11 @@ The Centered Kernel Alignment (CKA) method is from paper:
 
 *Similarity of Neural Network Representations Revisited*. [https://arxiv.org/abs/1905.00414]
 
+## Running time for the example notebook
+Numpy: 3min 8s
+PyTorch: 15.3s
+
+For large matrices, use PyTorch with CUDA to accelerate.
 
 # Dependencies
 ```
